@@ -12,7 +12,10 @@
 In order to install the necessary dependencies, open the console and run the following:
 ```undefined```
 ### Usage:
--
+npm install
+npm init -y
+npm inquiere
+
 ### License:
 This project is licensed under:
 undefined
